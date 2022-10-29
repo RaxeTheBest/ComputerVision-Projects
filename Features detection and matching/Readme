@@ -1,0 +1,3 @@
+This program performs features detection and matching between a query image and a set of train images.
+We use the ORB algorithm for the feature identification and then use knnMatch for the detection. Our program
+uses the glob() method to go through a set of 10 images.
